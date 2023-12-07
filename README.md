@@ -1,4 +1,4 @@
-# Automated Crypto Trading Bot
+# Shiling Script Project: Automated Crypto Trading Bot
 
 ## Overview
 
@@ -41,9 +41,9 @@ Receive timely alerts for new trades, ensuring you never miss an opportunity. St
 ## Screenshots
 
 ![Screenshot 1](path/to/screenshot1.png)
-*Caption for Screenshot 1*
+*📸 Caption for Screenshot 1*
 
 ![Screenshot 2](path/to/screenshot2.png)
-*Caption for Screenshot 2*
+*📸 Caption for Screenshot 2*
 
 Take your crypto trading to the next level with the Shiling Script Project – your reliable, automated trading companion! 🌐💼
