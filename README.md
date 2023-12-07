@@ -44,7 +44,7 @@ Stay on top of your trading game with instant notifications.
 - **Dynamic Trades Management:** Respond to market changes with real-time price updates.
 - **Comprehensive Trade History:** Access a detailed history of all trades, facilitating in-depth analysis.
 
-##📸 Screenshots
+##📸 Screenshotss
 
 ![Menu](screenshots/menu_ss.png)       ![Balance](screenshots/balance_ss.png)
     
