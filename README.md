@@ -1,7 +1,7 @@
 # 🚀 Telegram Automated Crypto Trading Bot
 
-The Shiling Script Project is a powerful bot designed to automate cryptocurrency 
-trading based on signals from a Telegram channel.
+The AutoTrade Bot Project is a powerful bot designed to automate cryptocurrency 
+trading based on signals from "Predictum" Telegram signals channel.
 
 ## 📈 Integration 
 
@@ -46,10 +46,37 @@ Stay on top of your trading game with instant notifications.
 - 
 Take your crypto trading to the next level with the AutoTrade Bot – your reliable, automated trading companion! 🌐💼
 
-##📸 Screenshots
+## 🚀 How to Run 🚀
+
+Follow these steps to set up and run the Shiling Script Project:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/adiel098/Telegram-AutoTrade-Bot.git
+   cd Telegram-AutoTrade-Bot
+   ```
+2.  **Install Requirements:**
+   ```bash
+   # Assuming you have Python installed
+   pip install -r requirements.txt
+   ```
+3.  **Configure Settings and API Keys::**
+
+       Open the **config.yaml** file.
+    
+       Add your Binance API key and secret in the appropriate fields.
+    
+       Add your signals channel target.
+5.  **Run the bot**
+   ```bash
+   # To run the bot and the real-time Websocket
+   python main.py
+   python web_socket_trades.py
+   ```
+
+## 📸 Screenshots
 
 ![Menu](screenshots/menu_ss.png) ![Balance](screenshots/balance_ss.png) 
-
 
 
 ![Live Trades](screenshots/livetrades_ss.png) ![Stats](screenshots/stats_ss.png)
