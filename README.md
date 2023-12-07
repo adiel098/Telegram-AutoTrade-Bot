@@ -44,11 +44,12 @@ Stay on top of your trading game with instant notifications.
 - **Dynamic Trades Management:** Respond to market changes with real-time price updates.
 - **Comprehensive Trade History:** Access a detailed history of all trades, facilitating in-depth analysis.
 
-##📸 Screenshotss
+##📸 Screenshots
 
-![Menu](screenshots/menu_ss.png)       ![Balance](screenshots/balance_ss.png)
-    
-![Live Trades](screenshots/alert_livetrades_ss.png)       ![Stats](screenshots/stats_ss.png)
+![Menu](screenshots/menu_ss.png)
+![Balance](screenshots/balance_ss.png)
+![Live Trades](screenshots/alert_livetrades_ss.png)       
+![Stats](screenshots/stats_ss.png)
        
 
 Take your crypto trading to the next level with the Shiling Script Project – your reliable, automated trading companion! 🌐💼
